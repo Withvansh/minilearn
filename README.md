@@ -1,6 +1,6 @@
 # MiniLearn Project Documentation
 
-Brief overview of the MiniLearn micro-learning platform.
+⚡ A full-stack micro-learning platform powered by React, TypeScript, Express, SQLite, and Gemini AI for dynamic syllabus and quiz generation.
 
 ---
 
