@@ -1,6 +1,7 @@
 # MiniLearn Project Documentation
 
 ⚡ A full-stack micro-learning platform powered by React, TypeScript, Express, SQLite, and Gemini AI for dynamic syllabus and quiz generation.
+ LIVE - https://vercel.com/withvanshs-projects/minilearn
 
 ---
 
