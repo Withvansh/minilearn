@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Base styles / Custom overrides */
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+[data-theme="dark"] body {
+  background-color: #090d16;
+  color: #f8fafc;
+}
